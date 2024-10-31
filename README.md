@@ -1,0 +1,1 @@
+This is a mini simplisting version of a quizzing website.
