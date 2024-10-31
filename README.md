@@ -2,7 +2,7 @@
 
 # mini
 
-A simplistic interface of quiz-based learning
+A simplistic interface for quiz-based learning
 </div>
 
 ### How to local dev?
