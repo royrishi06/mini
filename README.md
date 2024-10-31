@@ -41,7 +41,7 @@ uvicorn main:app --reload
 The following images illustrate the different parts of the quiz interface and results page for the Mini Quiz Generator application.
 
 #### 1. Initial Quiz Page
-![Initial Quiz Page](Screenshot%20from%202024-10-31%2019-07-45.png)
+![Initial Quiz Page](Screenshot%20from%202024-10-31%2019-34-14.png) 
 
 This is the initial interface where users can enter a URL and click on the "Generate Quiz" button. Once a URL is provided, the quiz will generate questions based on the content of the provided page.
 
