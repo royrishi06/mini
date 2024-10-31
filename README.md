@@ -1,6 +1,8 @@
-This is a mini simplisting version of a quizzing website.
+#mini
 
-Prerequisites
+A simplistic interface of quiz-based learning
+
+###Prerequisites
 
 cd mini_backend
 python3 -m venv venv
